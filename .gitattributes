@@ -1,0 +1,4 @@
+EB-YOLO-main/results/runs/train/exp1_yolo11m-obb-LSCD-LQE/weights/best_fp32.pt filter=lfs diff=lfs merge=lfs -text
+EB-YOLO-main/results/runs/train/exp1_yolo11m-obb-LSCD-LQE/weights/last_fp32.pt filter=lfs diff=lfs merge=lfs -text
+EB-YOLO-main/results/runs/train/exp1_yolo11_bifpn_GLSA_LSCD_LQE3/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+EB-YOLO-main/results/runs/train/exp1_yolo11_bifpn_GLSA_LSCD_LQE3/weights/last.pt filter=lfs diff=lfs merge=lfs -text
