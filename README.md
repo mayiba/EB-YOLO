@@ -162,6 +162,8 @@ These tools support qualitative interpretation of why specific defects are detec
 
 Use Python >= 3.8 with PyTorch installed for your CUDA version.
 
+The required libraries are all showed in requirement.txt
+
 ---
 
 ## 8. Training and Validation (OBB)
