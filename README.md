@@ -162,19 +162,6 @@ These tools support qualitative interpretation of why specific defects are detec
 
 Use Python >= 3.8 with PyTorch installed for your CUDA version.
 
-From the framework root:
-
-```bash
-cd EB-YOLO-main
-pip install -e .
-```
-
-Optional:
-
-```bash
-pip install -e ".[dev]"
-```
-
 ---
 
 ## 8. Training and Validation (OBB)
