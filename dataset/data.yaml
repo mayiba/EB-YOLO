@@ -1,0 +1,11 @@
+train: /home/chenhm/PycharmProjects/PythonProject1/ultralytics/dataset_demo/images/train
+val: /home/chenhm/PycharmProjects/PythonProject1/ultralytics/dataset_demo/images/val
+test: /home/chenhm/PycharmProjects/PythonProject1/ultralytics/dataset_demo/test/
+
+# Classes for DOTA 1.0
+names:
+  0: normal
+  1: hole
+  2: wave
+  3: ballL
+  4: ballS
